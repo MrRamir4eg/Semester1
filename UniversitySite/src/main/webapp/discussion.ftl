@@ -132,7 +132,7 @@
                 <#if dis.userDto.imageUrl??>
                     <img src="${dis.userDto.imageUrl}"/>
                 <#else>
-                    <img src="images/nouser.png"
+                    <img src="images/nouser.png"/>
                 </#if>
             </div>
             <div class="the_info1">
